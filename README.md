@@ -1,2 +1,2 @@
 # Real-Part-Detection
- please note that this project is in its initial stages, and adjustments so we can only provide you with an initial report of what is going to happen later. Please read it and if you have any comments on it let me know I would be happy to hear your point of view!
+Kindly take note that this project is currently in its preliminary phase, and as such, we are presenting an initial report outlining our planned course of action. We invite you to review this report, and should you have any insights or comments to share, we highly value your perspective and would appreciate your input.
